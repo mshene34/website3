@@ -3,11 +3,6 @@ title: "SQL Website"
 output: html_document
 ---
 
----
-title: "SQL"
-output: html_document
----
-
 ## Filtering coulumns and Rows
 
 With SQL, you can filter columns and row by using SELECT and WHERE. Let's look at an example using the Lahman database. So we could first load that database, along with the package sqldf.
